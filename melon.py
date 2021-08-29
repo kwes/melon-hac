@@ -2,7 +2,6 @@ from mcpi.minecraft import Minecraft
 import time
 mc = Minecraft.create()
 
-'#creaters kre, Wallee'
 
 from pynput.keyboard import *
 
