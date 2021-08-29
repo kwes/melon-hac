@@ -9,7 +9,7 @@ git clone https://github.com/kwes/melon-hac.git
 ```
 
 # usage
-load the file in thonny, or mu (comes pre installed for raspberry pi os)
+load the file in thonny, or mu (both are preinstalled for raspberry pi os)
 run the file (make sure mcpi reborn, server or your own world)
 
 and finnally press f to spawn a melon at your location
